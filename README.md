@@ -35,9 +35,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 a. Admin Panel -> Agents -> Roles
 b. Supreme Admin
-
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/A7EYNFJ.png" height="80%" width="80%" 
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
