@@ -103,3 +103,57 @@ Step 6 : Configure Users (Customers)
 <p>
   
  Agent Panel -> Users -> Add New-> Karen
+
+  Step 7: Configure SLA
+
+ <p>
+<img src="https://i.imgur.com/91c6qpL.png" height="80%" width="80%" 
+<p>
+   
+ <p>
+<img src="https://i.imgur.com/KeGerSe.png" height="80%" width="80%" 
+<p> 
+   
+<p>
+<img src="https://i.imgur.com/6wHAChM.png" height="80%" width="80%" 
+<p>  
+ 
+Admin Panel -> Manage -> SLA
+ 
+Sev-A (1 hour, 24/7)
+
+Sev-B (4 hours, 24/7)
+
+Sev-C (8 hours, business hours)
+
+ Step 8: Configure Help Topics
+ 
+<p>
+<img src="https://i.imgur.com/QTsIZv6.png" height="80%" width="80%" 
+<p>
+  
+<p>
+<img src="https://i.imgur.com/IQG4Ce2.png" height="80%" width="80%" 
+<p> 
+  
+<p>
+<img src="https://i.imgur.com/RBkRfEi.png" height="80%" width="80%" 
+<p>  
+ 
+<p>
+<img src="https://i.imgur.com/NH3uPHJ.png" height="80%" width="80%" 
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/NH3uPHJ.png" height="80%" width="80%" 
+<p>
+  
+Admin Panel -> Manage -> Help Topics
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
