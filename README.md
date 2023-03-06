@@ -84,3 +84,13 @@ Admin Panel -> Settings -> User Settings
 
 Registration Required: Require registration and login to create tickets- make sure it's not ticked off
 
+Step 5: Configure Agents (Workers)
+
+<p>
+<img src="https://i.imgur.com/q0GDaWf.png" height="80%" width="80%" 
+<p>
+   
+Admin Panel -> Agents -> Add New->Jane
+
+
+ 
