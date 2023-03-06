@@ -92,5 +92,14 @@ Step 5: Configure Agents (Workers)
    
 Admin Panel -> Agents -> Add New->Jane
 
-
+Step 6 : Configure Users (Customers)
  
+<p>
+<img src="https://i.imgur.com/KexNyTu.png" height="80%" width="80%" 
+<p>
+ 
+ <p>
+<img src="https://i.imgur.com/2cWLUwP.png" height="80%" width="80%" 
+<p>
+  
+ Agent Panel -> Users -> Add New-> Karen
