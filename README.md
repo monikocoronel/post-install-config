@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Step 1: Configure Roles
 - Step 2: Configure Departments
 - Step 3: Configure Teams
-- Step 4" Allow anyone to create tickets
+- Step 4: Allow anyone to create tickets
 - Step 5: Configure Agents (Workers)
 - Step 6 : Configure Users (Customers)
 - Step 7: Configure SLA
@@ -71,6 +71,16 @@ Step 3: Configure Teams
  
   i. Level II Support
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+- Step 4: Allow anyone to create tickets
+
+<p>
+<img src="https://i.imgur.com/KosAvB9.png" height="80%" width="80%" 
+<p>
+
+Admin Panel -> Settings -> User Settings
+
+Registration Required: Require registration and login to create tickets- make sure it's not ticked off
+
